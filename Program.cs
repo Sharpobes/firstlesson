@@ -56,13 +56,26 @@
 
 
 
-string a = "Hello";
-string b = "Hello";
-if (a == b)
-{
-    Console.WriteLine("значения одинаковые");
-}
-else
-{
-    Console.WriteLine($"{a} {b}");
-}
+//string a = "Hello";
+//string b = "Hello";
+//if (a == b)
+//{
+//    Console.WriteLine("значения одинаковые");
+//}
+//else
+//{
+//    Console.WriteLine($"{a} {b}");
+//}
+
+
+
+//string a = "Hello";
+//string b = "Hello";
+//if (a == b)
+//{
+//    Console.WriteLine("значения одинаковые");
+//}
+//else
+//{
+//    Console.WriteLine($"{a} {b}");
+//}
